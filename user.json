@@ -2,13 +2,14 @@
   {
     "enable": true,
     "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "phone": "13525370724",
+    "password": "Ss123456",
+    "deviceType": "Vivo|V1981A|12",
+    "deviceId": "580f0f586fae47928e288ab17d5f35d0fded",
+    "randomLocation": true,
+    "address": "河南省平顶山市舞钢市枣林乡平顶山三立斯服饰有限公司",
+    "longitude": "113.58902",
+    "latitude": "33.36388",
+    "pushKey": "dc9a5af3fd9d4dc2a05ee6289248d448"
   }
 ]
